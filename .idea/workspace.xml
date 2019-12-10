@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27940ff1-29a7-4897-b1d1-81611cbfd182" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tsq1n89IRX52A46jQDfNzmadaT" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/14JD" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ws_workspace\14JD" />
+      <recent name="C:\ws_workspace\14JD\fonts" />
+      <recent name="C:\ws_workspace\14JD\images" />
+      <recent name="C:\ws_workspace\14JD\css" />
+      <recent name="C:\ws_workspace\13旋转盒子\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27940ff1-29a7-4897-b1d1-81611cbfd182" name="Default Changelist" comment="" />
+      <created>1574258937414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574258937414</updated>
+      <workItem from="1574258938622" duration="226000" />
+      <workItem from="1574297409412" duration="135000" />
+      <workItem from="1574344174551" duration="3689000" />
+      <workItem from="1574384005216" duration="19000" />
+      <workItem from="1574420759505" duration="3198000" />
+      <workItem from="1574473739824" duration="5038000" />
+      <workItem from="1574556521936" duration="335000" />
+      <workItem from="1574591909617" duration="3875000" />
+      <workItem from="1574642881088" duration="1921000" />
+      <workItem from="1574672705337" duration="13821000" />
+      <workItem from="1574763797262" duration="8039000" />
+      <workItem from="1574774444295" duration="6000000" />
+      <workItem from="1574816270534" duration="25607000" />
+      <workItem from="1574938365564" duration="11862000" />
+      <workItem from="1575033225879" duration="2379000" />
+      <workItem from="1575087413669" duration="20719000" />
+      <workItem from="1575174557883" duration="23138000" />
+      <workItem from="1575249619502" duration="5000" />
+      <workItem from="1575285209206" duration="8528000" />
+      <workItem from="1575334415140" duration="1329000" />
+      <workItem from="1575348763141" duration="3811000" />
+      <workItem from="1575370116958" duration="2935000" />
+      <workItem from="1575374041512" duration="1083000" />
+      <workItem from="1575422394773" duration="694000" />
+      <workItem from="1575457825591" duration="10636000" />
+      <workItem from="1575507697230" duration="57000" />
+      <workItem from="1575543606917" duration="5691000" />
+      <workItem from="1575595595780" duration="69000" />
+      <workItem from="1575599935822" duration="1321000" />
+      <workItem from="1575700479989" duration="10213000" />
+      <workItem from="1575853865728" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
